@@ -4,7 +4,7 @@ Hogan Redist
 What is it?
 -----------
 
-A redistribution of [Hogan.js][1] using jszip.org packaging
+A redistribution of the AMD compatible version of [Hogan.js][1] using jszip.org packaging
 
 Documentation
 -------------

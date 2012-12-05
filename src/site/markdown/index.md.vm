@@ -1,7 +1,7 @@
 Hogan.js
 ========
 
-This is a redistribution of [Hogan.js][1].
+This is a redistribution of the AMD compatible version of [Hogan.js][1].
 
 To use this module in your projects just add the following dependency:
 
