@@ -25,7 +25,7 @@
 
   <groupId>org.jszip.redist</groupId>
   <artifactId>hogan</artifactId>
-  <version>1.0.3-SNAPSHOT</version>
+  <version>1.0.3</version>
   <packaging>jszip</packaging>
 
   <name>hogan.js</name>
@@ -46,7 +46,7 @@
     <connection>scm:git:git://github.com/jszip/hogan-redist.git</connection>
     <developerConnection>scm:git:git@github.com:jszip/hogan-redist.git</developerConnection>
     <url>http://github.com/jszip/hogan-redist/tree/master/</url>
-    <tag>HEAD</tag>
+    <tag>hogan-1.0.3</tag>
   </scm>
   <issueManagement>
     <system>github</system>
